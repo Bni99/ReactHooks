@@ -1,4 +1,4 @@
-import ComponentOne from "./ReactMemo/ComponentOne";
+import ComponentOne from "./PropDrillingIssue/ComponentOne";
 
 const App = () => {
   return <ComponentOne />;
